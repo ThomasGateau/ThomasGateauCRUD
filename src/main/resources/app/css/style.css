@@ -1,0 +1,49 @@
+h1 {
+    margin: 2rem 4rem 0;
+}
+
+form {
+    margin: 2rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 1rem;
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(233, 233, 233);
+}
+
+form button {
+    background-color: rgb(3, 209, 3);
+}
+
+form input {
+    border-radius: 0.4rem;
+    border: 1px solid black;
+    padding: 0.3rem;
+}
+
+table {
+    margin: 2rem;
+    border-collapse: collapse;
+}
+
+table button {
+    background-color: red;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+th {
+    background-color: rgb(255, 153, 0);
+}
+
+button {
+    border-radius: 1rem;
+    padding: 0.2rem 1rem;
+    border: none;
+    cursor: pointer;
+}
